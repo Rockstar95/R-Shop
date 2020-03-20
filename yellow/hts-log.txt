@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Feb 2020 18:24:45 at http://new.uouapps.com/globo-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://new.uouapps.com/globo-html/ -O1 "C:\Users\dinesh agrawal\Desktop\yellow" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:26:38	Error: 	"Not Found" (404) at link new.uouapps.com/globo-html/css/grabbing.png (from new.uouapps.com/globo-html/css/style.css)
+18:26:38	Error: 	"Not Found" (404) at link new.uouapps.com/globo-html/css/AjaxLoader.gif (from new.uouapps.com/globo-html/css/style.css)
+18:26:38	Error: 	"Not Found" (404) at link new.uouapps.com/globo-html/js/masterslider/masterslider/style/grab.cur (from new.uouapps.com/globo-html/js/masterslider/style/masterslider.css)
+18:26:38	Error: 	"Not Found" (404) at link new.uouapps.com/globo-html/js/masterslider/masterslider/style/grabbing.cur (from new.uouapps.com/globo-html/js/masterslider/style/masterslider.css)
+18:27:09	Warning: 	Retry after error -4 (No data (connection closed)) at link new.uouapps.com/globo-html/img/content/square-button.png (from new.uouapps.com/globo-html/company-profile.html)
+18:27:09	Error: 	"Not Found" (404) at link new.uouapps.com/globo-html/ihome-map-grid.html (from new.uouapps.com/globo-html/about-us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 25 seconds : 97 links scanned, 90 files written (5563313 bytes overall) [3661255 bytes received at 25250 bytes/sec], 2244240 bytes transferred using HTTP compression in 30 files, ratio 13%, 3.5 requests per connection
+(5 errors, 1 warnings, 0 messages)
